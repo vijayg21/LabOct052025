@@ -1,0 +1,39 @@
+varaiable "rgname"
+
+{
+ type = string
+
+}
+
+variable "rgloaction"
+
+{
+
+type = string
+
+
+}
+
+variable "prefix"
+
+{
+
+type = string
+
+}
+
+variable "vnet_cidr_prefix"
+
+{
+
+type = string
+
+}
+
+variable "subnet1_cidr_prefix"
+
+{
+
+type = string
+
+}
